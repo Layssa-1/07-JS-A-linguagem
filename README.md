@@ -11,3 +11,6 @@
 
 ## Video 03: Operadores - parte 1
 [comment]: <> (Aprendi que na ordem de precedência,é certo analisar primeiro todos parênteses,depois a potência,logo após a multiplicação,a divisão e o resto da divisão,pois eles tem a mesma ordem de precedência.)
+
+## Video 04: Operadores - parte 2
+[comment]: <> (Entendi e achei interessante a parte da ordem de precedência dos operadores que são aritméticos,atribuídos,racionais,lógicos e o operador ternário.)
